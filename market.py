@@ -2,6 +2,10 @@ import json
 
 # from playwright.sync_api import sync_playwright
 
+# save the data
+with open('market.json', 'r') as f:
+    data = json.load(f)
+
 entry = {}
 
 url = input('URL: ')
@@ -9,7 +13,12 @@ expected_prefix = 'https://www.reddit.com/r/technicalwriting/comments/'
 if not url.startswith(expected_prefix):
     raise ValueError(f'URL must begin with {expected_prefix}')
 tokens = url.split('/')
-entry['post_id'] = tokens[6]
+post_id = tokens[6]
+for post in data:
+    if post['post_id'] == post_id:
+        exit('Post already exists in the dataset')
+entry['post_id'] = post_id
+
     
 # with sync_playwright() as p:
 #     browser = p.chromium.launch(headless=False)
@@ -31,10 +40,6 @@ entry['post_id'] = tokens[6]
 #     city = input('City: ')
 #     entry['city'] = None if city == '' else city
 #     browser.close()
-
-# save the data
-with open('market.json', 'r') as f:
-    data = json.load(f)
 
 data.append(entry)
 
