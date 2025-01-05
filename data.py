@@ -17,6 +17,14 @@ with open('portfolios.json', 'r') as f:
 
 more_posts = True
 
+def exists(post_id, dataset):
+    for post in dataset:
+        if post_id == post['post_id']:
+            print('Post already exists in this dataset')
+            return True
+    return False
+        
+
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=False)
     page = browser.new_page()
@@ -55,6 +63,8 @@ with sync_playwright() as p:
         post_type = input('> Select a post type: ')
         # Manually enter different data depending on the post type
         if post_type == '1':  # new grads
+            if exists(post_id, students):
+                continue
             degrees = input('> Degree(s): ')
             degrees = None if degrees == '' else degrees.split(',')
             new_post['degrees'] = degrees
@@ -62,6 +72,8 @@ with sync_playwright() as p:
             with open('students.json', 'w') as f:
                 json.dump(students, f, indent=2)
         elif post_type == '2':  # entrances
+            if exists(post_id, entrances):
+                continue
             careers = input('> Past career(s): ')
             careers = None if careers == '' else careers.split(',')
             new_post['careers'] = careers
@@ -70,28 +82,40 @@ with sync_playwright() as p:
                 json.dump(entrances, f, indent=2)
         elif post_type == '3':  # exits
             careers = input('> Desired new career(s): ')
+            if exists(post_id, exits):
+                continue
             careers = None if careers == '' else careers.split(',')
             new_post['careers'] = careers
             exits.append(new_post)
             with open('exits.json', 'w') as f:
                 json.dump(exits, f, indent=2)
         elif post_type == '4':  # markets
+            if exists(post_id, markets):
+                continue
             continent = input('Continent: ')
+            continent = None if continent == '' else continent
             new_post['continent'] = continent
             country = input('Country: ')
+            country = None if country == '' else country
             new_post['country'] = country
             state = input('State: ')
+            state = None if state == '' else state
             new_post['state'] = state
             city = input('City: ')
+            city = None if city == '' else city
             new_post['city'] = city
             markets.append(new_post)
             with open('markets.json', 'w') as f:
                 json.dump(markets, f, indent=2)
         elif post_type == '5':  # resumes
+            if exists(post_id, resumes):
+                continue
             resumes.append(new_post)
             with open('resumes.json', 'w') as f:
                 json.dump(resumes, f, indent=2)
         elif post_type == '6':  # portfolios
+            if exists(post_id, portfolios):
+                continue
             portfolios.append(new_post)
             with open('portfolios.json', 'w') as f:
                 json.dump(portfolios, f, indent=2)
