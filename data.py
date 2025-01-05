@@ -35,7 +35,7 @@ with sync_playwright() as p:
         try:
             page.goto(url)
             input('> Press Enter when the page is ready: ')
-            title = page.evaluate('document.querySelector("h1").textContent')
+            title = page.evaluate('document.querySelector("h1").textContent').strip()
             new_post['title'] = title
             date = page.evaluate('document.querySelector("shreddit-post time").getAttribute("datetime")')
             new_post['date'] = date
