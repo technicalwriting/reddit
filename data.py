@@ -14,6 +14,8 @@ with open('resumes.json', 'r') as f:
     resumes = json.load(f)
 with open('portfolios.json', 'r') as f:
     portfolios = json.load(f)
+with open('interviews.json', 'r') as f:
+    interviews = json.load(f)
 
 more_posts = True
 
@@ -59,6 +61,7 @@ with sync_playwright() as p:
         print('4 - Markets')
         print('5 - Resumes')
         print('6 - Portfolios')
+        print('7 - Interviews')
         print()
         post_type = input('> Select a post type: ')
         # Manually enter different data depending on the post type
@@ -119,6 +122,12 @@ with sync_playwright() as p:
             portfolios.append(new_post)
             with open('portfolios.json', 'w') as f:
                 json.dump(portfolios, f, indent=2)
+        elif post_type == '7':  # interviews
+            if exists(post_id, interviews):
+                continue
+            interviews.append(new_post)
+            with open('interviews.json', 'w') as f:
+                json.dump(interviews, f, indent=2)
         # Determine if there's more data to be entered
         more_posts = input('> More data (y/n) [y]: ')
         more_posts = 'y' if more_posts == '' else more_posts
