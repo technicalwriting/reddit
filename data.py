@@ -60,21 +60,21 @@ with sync_playwright() as p:
             new_post['degrees'] = degrees
             students.append(new_post)
             with open('students.json', 'w') as f:
-                json.dump(markets, f, indent=2)
+                json.dump(students, f, indent=2)
         elif post_type == '2':  # entrances
             careers = input('> Past career(s): ')
             careers = None if careers == '' else careers.split(',')
             new_post['careers'] = careers
             entrances.append(new_post)
             with open('entrances.json', 'w') as f:
-                json.dump(markets, f, indent=2)
+                json.dump(entrances, f, indent=2)
         elif post_type == '3':  # exits
             careers = input('> Desired new career(s): ')
             careers = None if careers == '' else careers.split(',')
             new_post['careers'] = careers
             exits.append(new_post)
             with open('exits.json', 'w') as f:
-                json.dump(markets, f, indent=2)
+                json.dump(exits, f, indent=2)
         elif post_type == '4':  # markets
             continent = input('Continent: ')
             new_post['continent'] = continent
