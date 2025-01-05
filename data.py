@@ -32,12 +32,16 @@ with sync_playwright() as p:
         post_id = tokens[6]
         new_post['post_id'] = post_id
         # Scrape the post title and date from the web
-        page.goto(url, wait_until='domcontentloaded')
-        page.wait_for_selector('h1')
-        title_node = page.query_selector('h1')
-        new_post['title'] = title_node.text_content().strip()
-        date = page.evaluate('document.querySelector("shreddit-post time").getAttribute("datetime")')
-        new_post['date'] = date
+        try:
+            page.goto(url)
+            input('> Press Enter when the page is ready: ')
+            title = page.evaluate('document.querySelector("h1").textContent')
+            new_post['title'] = title
+            date = page.evaluate('document.querySelector("shreddit-post time").getAttribute("datetime")')
+            new_post['date'] = date
+        except Exception as e:
+            print(e)
+            continue
         # Get the post type
         print('Post types:')
         print()
