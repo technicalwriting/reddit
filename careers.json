@@ -23,5 +23,38 @@
     "year": "2024",
     "direction": "in",
     "career": null
+  },
+  {
+    "post_id": "1hlum69",
+    "title": "Tech writing career as a fresher",
+    "month": "12",
+    "year": "2024",
+    "degrees": [
+      "creative_writing"
+    ]
+  },
+  {
+    "post_id": "1hksz0z",
+    "title": "3D animated Instructional Designer/Technical Writer with niche experience seeking advice",
+    "month": "12",
+    "year": "2024",
+    "direction": "in",
+    "career": "instructional_design"
+  },
+  {
+    "post_id": "1hkend6",
+    "title": "Degree but no experience, help!",
+    "month": "12",
+    "year": "2024",
+    "direction": "in",
+    "career": "teacher"
+  },
+  {
+    "post_id": "1hiydwq",
+    "title": "Can I be a tech writer if I'm introverted",
+    "month": "12",
+    "year": "2024",
+    "direction": "in",
+    "career": null
   }
 ]
