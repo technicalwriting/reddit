@@ -31,9 +31,11 @@ with sync_playwright() as p:
     else:
         entry['direction'] = input('Direction (in, out): ')
         if entry['direction'] == 'in':
-            entry['career'] = input('Current career: ')
+            career = input('Current career: ')
+            entry['career'] = None if career == '' else career
         else:
-            entry['career'] = input('Desired new career: ')
+            career = input('Desired new career: ')
+            entry['career'] = None if career == '' else career
     browser.close()
 
 with open('careers.json', 'r') as f:
