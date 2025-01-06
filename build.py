@@ -113,8 +113,7 @@ metadata = {
 }
 
 for theme in metadata:
-    # content += f'## {metadata[theme]["title"]}\n\n'
-    content += f'<h2 id="{theme}>{metadata[theme]["title"]}</h2>\n\n'
+    content += f'## {metadata[theme]["title"]}\n\n'
     content += f'[Link to this section](#{theme})\n\n'
     content += f'{metadata[theme]["desc"]}\n\n'
     if theme == 'students':
@@ -149,4 +148,5 @@ for theme in metadata:
             content += f'* [{title}](https://reddit.com/r/technicalwriting/comments/{post_id}) ({date})\n'
         content += '\n'
 
-print(content)
+with open('output.txt', 'w') as f:
+    f.write(content)
