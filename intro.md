@@ -16,3 +16,7 @@ will increase your chances of getting high-quality responses from the r/technica
 community.
 
 Thank you for respecting our community's time and energy and best of luck on your career journey!
+
+(A note on the organization: some posts are duplicated because they apply to multiple categories.
+E.g. a post from a new grad double majoring in English and CS would show up under both the English
+and CS sections.)
