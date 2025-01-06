@@ -29,6 +29,8 @@ with open('training.json', 'r') as f:
     training = json.load(f)
 with open('geography.json', 'r') as f:
     geography = json.load(f)
+with open('demand.json', 'r') as f:
+    demand = json.load(f)
 
 more_posts = True
 
@@ -60,19 +62,21 @@ with sync_playwright() as p:
         # Get the post type
         print('Post types:')
         print()
-        print('1 - Students')
-        print('2 - Entrance')
-        print('3 - Exit')
-        print('4 - Salaries')
-        print('5 - Resumes')
-        print('6 - Portfolios')
-        print('7 - Interviews')
-        print('8 - Advancement')
-        print('9 - Training')
+        print('a - Students')
+        print('b - Entrance')
+        print('c - Exit')
+        print('d - Salaries')
+        print('e - Resumes')
+        print('f - Portfolios')
+        print('g - Interviews')
+        print('h - Advancement')
+        print('i - Training')
+        print('j - Geography')
+        print('k - Demand')
         print()
         post_type = input('> Select a post type: ')
         # Manually enter different data depending on the post type
-        if post_type == '1':  # new grads
+        if post_type == 'a':  # new grads
             if exists(post_id, students):
                 continue
             degrees = input('> Degree(s): ')
@@ -81,7 +85,7 @@ with sync_playwright() as p:
             students.append(new_post)
             with open('students.json', 'w') as f:
                 json.dump(students, f, indent=2)
-        elif post_type == '2':  # entrances
+        elif post_type == 'b':  # entrances
             if exists(post_id, entrances):
                 continue
             careers = input('> Past career(s): ')
@@ -90,7 +94,7 @@ with sync_playwright() as p:
             entrances.append(new_post)
             with open('entrances.json', 'w') as f:
                 json.dump(entrances, f, indent=2)
-        elif post_type == '3':  # exits
+        elif post_type == 'c':  # exits
             careers = input('> Desired new career(s): ')
             if exists(post_id, exits):
                 continue
@@ -99,48 +103,54 @@ with sync_playwright() as p:
             exits.append(new_post)
             with open('exits.json', 'w') as f:
                 json.dump(exits, f, indent=2)
-        elif post_type == '4':  # salaries
+        elif post_type == 'd':  # salaries
             if exists(post_id, salaries):
                 continue
             salaries.append(new_post)
             with open('salaries.json', 'w') as f:
                 json.dump(salaries, f, indent=2)
-        elif post_type == '5':  # resumes
+        elif post_type == 'e':  # resumes
             if exists(post_id, resumes):
                 continue
             resumes.append(new_post)
             with open('resumes.json', 'w') as f:
                 json.dump(resumes, f, indent=2)
-        elif post_type == '6':  # portfolios
+        elif post_type == 'f':  # portfolios
             if exists(post_id, portfolios):
                 continue
             portfolios.append(new_post)
             with open('portfolios.json', 'w') as f:
                 json.dump(portfolios, f, indent=2)
-        elif post_type == '7':  # interviews
+        elif post_type == 'g':  # interviews
             if exists(post_id, interviews):
                 continue
             interviews.append(new_post)
             with open('interviews.json', 'w') as f:
                 json.dump(interviews, f, indent=2)
-        elif post_type == '8':  # advancement
+        elif post_type == 'h':  # advancement
             if exists(post_id, advancement):
                 continue
             advancement.append(new_post)
             with open('advancement.json', 'w') as f:
                 json.dump(advancement, f, indent=2)
-        elif post_type == '9':  # training
+        elif post_type == 'i':  # training
             if exists(post_id, training):
                 continue
             training.append(new_post)
             with open('training.json', 'w') as f:
                 json.dump(training, f, indent=2)
-        elif post_type == '0':  # geography
+        elif post_type == 'j':  # geography
             if exists(post_id, geography):
                 continue
             geography.append(new_post)
             with open('geography.json', 'w') as f:
                 json.dump(geography, f, indent=2)
+        elif post_type == 'k':  # demand
+            if exists(post_id, demand):
+                continue
+            demand.append(new_post)
+            with open('demand.json', 'w') as f:
+                json.dump(demand, f, indent=2)
         # Determine if there's more data to be entered
         more_posts = input('> More data (y/n) [y]: ')
         more_posts = 'y' if more_posts == '' else more_posts
