@@ -27,20 +27,51 @@ with open('training.json', 'r') as f:
     data['training'] = json.load(f)
 
 metadata = {
-    'students': 'Education (internships, finding a job after graduating, whether Masters/PhDs are valuable, etc.)',
-    'training': 'Training (certificates, books to read, etc.)',
-    'resumes': 'Resumes',
-    'portfolios': 'Portfolios',
-    'interviews': 'Interviews',
-    'salaries': 'Salaries',
-    'entrances': 'Breaking into technical writing from a different field',
-    'advancement': 'Advancement',
-    'exits': 'Leaving technical writing and pursuing another career',
-    'demand': 'Demand (state of the job market, what types of TW are in highest demand, etc.)'
+    'students': {
+        'title': 'Education',
+        'desc': 'Internships, finding a job after graduating, whether Masters/PhDs are valuable, etc.'
+    },
+    'training': {
+        'title': 'Training',
+        'desc': 'Certificates, books to read, etc.'
+    },
+    'resumes': {
+        'title': 'Resumes',
+        'desc': 'What to include, getting feedback on your resume, etc.'
+    },
+    'portfolios': {
+        'title': 'Portfolios',
+        'desc': 'How to build a portfolio, where to host it, getting feedback on your portfolio, etc.'
+    },
+    'interviews': {
+        'title': 'Interviews',
+        'desc': 'How to ace the interview, what kinds of questions to ask, etc.'
+    },
+    'salaries': {
+        'title': 'Salaries',
+        'desc': 'Determining whether a salary is fair, asking for a raise, etc.'
+    }
+    'entrances': {
+        'title': 'Transitions',
+        'desc': 'Breaking into technical writing from a different field.'
+    },
+    'advancement': {
+        'title': 'Advancement',
+        'desc': 'You got the job (congrats). Next steps for growing your TW career.'
+    },
+    'exits': {
+        'title': 'Exits',
+        'desc': 'Leaving technical writing and pursuing another career.'
+    },
+    'demand': {
+        'title': 'Demand',
+        'desc': 'State of the TW job market, what types of TW specialties are in highest demand, which industries pay the most, etc.'
+    }
 }
 
-for theme in data:
-    content += f'## {theme.capitalize()}\n\n'
+for theme in metadata:
+    content += f'## {metadata[theme]["title"]}\n\n'
+    content += f'{metadata[theme]["desc"]\n\n'
     for post in data[theme]:
         post_id = post['post_id']
         title = post['title']
