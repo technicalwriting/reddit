@@ -4,25 +4,68 @@ import json
 data = {}
 
 with open('intro.md', 'r') as f:
-    data['content'] = f.read()
+    content = f.read()
+
 with open('advancement.json', 'r') as f:
     data['advancement'] = json.load(f)
+
 with open('demand.json', 'r') as f:
     data['demand'] = json.load(f)
+
+data['entrances'] = {'misc': []}
 with open('entrances.json', 'r') as f:
-    data['entrances'] = json.load(f)
+    data['entrances']['src'] = json.load(f)
+for post in data['entrances']['src']:
+    careers = post['careers']
+    if careers is None:
+        data['entrances']['misc'].append(post)
+    else:
+        for career in careers:
+            if career not in data['entrances']:
+                data['entrances'][career] = []
+            data['entrances'][career].append(post)
+del data['entrances']['src']
+
+data['exits'] = {'misc': []}
 with open('exits.json', 'r') as f:
-    data['exits'] = json.load(f)
+    data['exits']['src'] = json.load(f)
+for post in data['exits']['src']:
+    careers = post['careers']
+    if careers is None:
+        data['exits']['misc'].append(post)
+    else:
+        for career in careers:
+            if career not in data['exits']:
+                data['exits'][career] = []
+            data['exits'][career].append(post)
+del data['exits']['src']
+
 with open('interviews.json', 'r') as f:
     data['interviews'] = json.load(f)
+
 with open('portfolios.json', 'r') as f:
     data['portfolios'] = json.load(f)
+
 with open('resumes.json', 'r') as f:
     data['resumes'] = json.load(f)
+
 with open('salaries.json', 'r') as f:
     data['salaries'] = json.load(f)
+
+data['students'] = {'misc': []}
 with open('students.json', 'r') as f:
-    data['students'] = json.load(f)
+    data['students']['src'] = json.load(f)
+for post in data['students']['src']:
+    degrees = post['degrees']
+    if degrees is None:
+        data['students']['misc'].append(post)
+    else:
+        for degree in degrees:
+            if degree not in data['students']:
+                data['students'][degree] = []
+            data['students'][degree].append(post)
+del data['students']['src']
+
 with open('training.json', 'r') as f:
     data['training'] = json.load(f)
 
@@ -50,7 +93,7 @@ metadata = {
     'salaries': {
         'title': 'Salaries',
         'desc': 'Determining whether a salary is fair, asking for a raise, etc.'
-    }
+    },
     'entrances': {
         'title': 'Transitions',
         'desc': 'Breaking into technical writing from a different field.'
@@ -70,10 +113,40 @@ metadata = {
 }
 
 for theme in metadata:
-    content += f'## {metadata[theme]["title"]}\n\n'
-    content += f'{metadata[theme]["desc"]\n\n'
-    for post in data[theme]:
-        post_id = post['post_id']
-        title = post['title']
-        date = datetime.datetime(post['date']).strftime('%d %b %Y')
-        content += f'* [{title}](https://reddit.com/r/technicalwriting/comments/{post_id}) ({date})\n'
+    # content += f'## {metadata[theme]["title"]}\n\n'
+    content += f'<h2 id="{theme}>{metadata[theme]["title"]}</h2>\n\n'
+    content += f'[Link to this section](#{theme})\n\n'
+    content += f'{metadata[theme]["desc"]}\n\n'
+    if theme == 'students':
+        for degree in data['students']:
+            if degree == 'misc':
+                content += '### General and miscellaneous\n\n'
+            else:
+                content += f'### {degree.capitalize().replace("_", " ")}\n\n'
+            for post in data['students'][degree]:
+                post_id = post['post_id']
+                title = post['title']
+                date = datetime.datetime.fromisoformat(post['date']).strftime('%d %b %Y')
+                content += f'* [{title}](https://reddit.com/r/technicalwriting/comments/{post_id}) ({date})\n'
+            content += '\n'
+    elif theme in ['entrances', 'exits']:
+        for career in data[theme]:
+            if career == 'misc':
+                content += '### General and miscellaneous\n\n'
+            else:
+                content += f'### {career.capitalize().replace("_", " ")}\n\n'
+            for post in data[theme][career]:
+                post_id = post['post_id']
+                title = post['title']
+                date = datetime.datetime.fromisoformat(post['date']).strftime('%d %b %Y')
+                content += f'* [{title}](https://reddit.com/r/technicalwriting/comments/{post_id}) ({date})\n'
+            content += '\n'
+    else:
+        for post in data[theme]:
+            post_id = post['post_id']
+            title = post['title']
+            date = datetime.datetime.fromisoformat(post['date']).strftime('%d %b %Y')
+            content += f'* [{title}](https://reddit.com/r/technicalwriting/comments/{post_id}) ({date})\n'
+        content += '\n'
+
+print(content)
