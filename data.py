@@ -27,8 +27,6 @@ with open('advancement.json', 'r') as f:
     advancement = json.load(f)
 with open('training.json', 'r') as f:
     training = json.load(f)
-with open('geography.json', 'r') as f:
-    geography = json.load(f)
 with open('demand.json', 'r') as f:
     demand = json.load(f)
 
@@ -71,8 +69,7 @@ with sync_playwright() as p:
         print('g - Interviews')
         print('h - Advancement')
         print('i - Training')
-        print('j - Geography')
-        print('k - Demand')
+        print('j - Demand')
         print()
         post_type = input('> Select a post type: ')
         # Manually enter different data depending on the post type
@@ -139,13 +136,7 @@ with sync_playwright() as p:
             training.append(new_post)
             with open('training.json', 'w') as f:
                 json.dump(training, f, indent=2)
-        elif post_type == 'j':  # geography
-            if exists(post_id, geography):
-                continue
-            geography.append(new_post)
-            with open('geography.json', 'w') as f:
-                json.dump(geography, f, indent=2)
-        elif post_type == 'k':  # demand
+        elif post_type == 'j':  # demand
             if exists(post_id, demand):
                 continue
             demand.append(new_post)
