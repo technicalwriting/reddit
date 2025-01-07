@@ -5,7 +5,9 @@
     "date": "2025-01-05T05:59:56.697Z",
     "degrees": [
       "technical_writing"
-    ]
+    ],
+    "votes": "1",
+    "comments": "26"
   },
   {
     "post_id": "1hsgf1m",
@@ -13,13 +15,17 @@
     "date": "2025-01-03T06:47:34.388Z",
     "degrees": [
       "english"
-    ]
+    ],
+    "votes": "0",
+    "comments": "3"
   },
   {
     "post_id": "1hmwub2",
     "title": "Technical Writing Internship",
     "date": "2024-12-26T20:11:52.850Z",
-    "degrees": null
+    "degrees": null,
+    "votes": "1",
+    "comments": "5"
   },
   {
     "post_id": "1hlum69",
@@ -27,7 +33,9 @@
     "date": "2024-12-25T05:34:13.357Z",
     "degrees": [
       "creative_writing"
-    ]
+    ],
+    "votes": "1",
+    "comments": "16"
   },
   {
     "post_id": "1hkend6",
@@ -35,7 +43,9 @@
     "date": "2024-12-23T03:05:32.344Z",
     "degrees": [
       "rhetoric"
-    ]
+    ],
+    "votes": "5",
+    "comments": "16"
   },
   {
     "post_id": "1hhy63e",
@@ -43,7 +53,9 @@
     "date": "2024-12-19T17:31:13.357Z",
     "degrees": [
       "technical_writing"
-    ]
+    ],
+    "votes": "4",
+    "comments": "9"
   },
   {
     "post_id": "1hbw9q4",
@@ -51,13 +63,17 @@
     "date": "2024-12-11T15:40:59.175Z",
     "degrees": [
       "english"
-    ]
+    ],
+    "votes": "3",
+    "comments": "13"
   },
   {
     "post_id": "1h4amv5",
     "title": "help pls",
     "date": "2024-12-01T19:03:01.933Z",
-    "degrees": null
+    "degrees": null,
+    "votes": "0",
+    "comments": "3"
   },
   {
     "post_id": "1gvx6lx",
@@ -65,19 +81,25 @@
     "date": "2024-11-20T18:59:53.154Z",
     "degrees": [
       "communications"
-    ]
+    ],
+    "votes": "0",
+    "comments": "1"
   },
   {
     "post_id": "1gqj966",
     "title": "How do you find a job in this field as an upcoming Graduate?",
     "date": "2024-11-13T18:06:26.595Z",
-    "degrees": null
+    "degrees": null,
+    "votes": "6",
+    "comments": "18"
   },
   {
     "post_id": "1gpt275",
     "title": "Is a master's degree a good entry way, if your bachelor's degree is unrelated?",
     "date": "2024-11-12T19:26:12.373Z",
-    "degrees": null
+    "degrees": null,
+    "votes": "1",
+    "comments": "19"
   },
   {
     "post_id": "1gpei29",
@@ -85,7 +107,9 @@
     "date": "2024-11-12T06:24:51.174Z",
     "degrees": [
       "chemistry"
-    ]
+    ],
+    "votes": "4",
+    "comments": "18"
   },
   {
     "post_id": "1gnqn0f",
@@ -93,7 +117,9 @@
     "date": "2024-11-10T02:37:55.860Z",
     "degrees": [
       "technical_writing"
-    ]
+    ],
+    "votes": "0",
+    "comments": "7"
   },
   {
     "post_id": "1gn0a7c",
@@ -101,7 +127,9 @@
     "date": "2024-11-09T02:47:22.565Z",
     "degrees": [
       "graphic_design"
-    ]
+    ],
+    "votes": "0",
+    "comments": "6"
   },
   {
     "post_id": "1gk37vh",
@@ -109,7 +137,9 @@
     "date": "2024-11-05T09:55:36.931Z",
     "degrees": [
       "information_technology"
-    ]
+    ],
+    "votes": "0",
+    "comments": "14"
   },
   {
     "post_id": "1ghg0i4",
@@ -117,7 +147,9 @@
     "date": "2024-11-01T21:10:13.257Z",
     "degrees": [
       "english"
-    ]
+    ],
+    "votes": "5",
+    "comments": "28"
   },
   {
     "post_id": "1gen49r",
@@ -126,7 +158,9 @@
     "degrees": [
       "computer_science",
       "english"
-    ]
+    ],
+    "votes": "1",
+    "comments": "18"
   },
   {
     "post_id": "1gb4e9n",
@@ -134,7 +168,9 @@
     "date": "2024-10-24T14:48:04.929Z",
     "degrees": [
       "english"
-    ]
+    ],
+    "votes": "2",
+    "comments": "3"
   },
   {
     "post_id": "1fz8kf0",
@@ -142,7 +178,9 @@
     "date": "2024-10-08T19:38:53.732Z",
     "degrees": [
       "graphic_design"
-    ]
+    ],
+    "votes": "8",
+    "comments": "13"
   },
   {
     "post_id": "1fordve",
@@ -150,7 +188,9 @@
     "date": "2024-09-25T00:10:56.877Z",
     "degrees": [
       "engineering"
-    ]
+    ],
+    "votes": "0",
+    "comments": "20"
   },
   {
     "post_id": "1ffkjtl",
@@ -158,7 +198,9 @@
     "date": "2024-09-13T02:52:03.304Z",
     "degrees": [
       "english"
-    ]
+    ],
+    "votes": "5",
+    "comments": "4"
   },
   {
     "post_id": "1fdubqx",
@@ -166,7 +208,9 @@
     "date": "2024-09-10T22:06:57.045Z",
     "degrees": [
       "english"
-    ]
+    ],
+    "votes": "1",
+    "comments": "5"
   },
   {
     "post_id": "1f85ny2",
@@ -174,7 +218,9 @@
     "date": "2024-09-03T17:21:31.134Z",
     "degrees": [
       "technical_writing"
-    ]
+    ],
+    "votes": "4",
+    "comments": "8"
   },
   {
     "post_id": "1f8cmzu",
@@ -182,7 +228,9 @@
     "date": "2024-09-03T21:59:48.292Z",
     "degrees": [
       "technical_writing"
-    ]
+    ],
+    "votes": "0",
+    "comments": "3"
   },
   {
     "post_id": "1f75ou4",
@@ -190,7 +238,9 @@
     "date": "2024-09-02T12:38:09.260Z",
     "degrees": [
       "technical_writing"
-    ]
+    ],
+    "votes": "2",
+    "comments": "22"
   },
   {
     "post_id": "1f78dkj",
@@ -198,7 +248,9 @@
     "date": "2024-09-02T14:39:39.441Z",
     "degrees": [
       "computer_science"
-    ]
+    ],
+    "votes": "0",
+    "comments": "7"
   },
   {
     "post_id": "1erfczp",
@@ -206,7 +258,9 @@
     "date": "2024-08-13T18:29:03.975Z",
     "degrees": [
       "communications"
-    ]
+    ],
+    "votes": "1",
+    "comments": "4"
   },
   {
     "post_id": "1el41i4",
@@ -214,7 +268,9 @@
     "date": "2024-08-06T00:34:05.895Z",
     "degrees": [
       "english"
-    ]
+    ],
+    "votes": "15",
+    "comments": "19"
   },
   {
     "post_id": "1ehzx7m",
@@ -222,13 +278,17 @@
     "date": "2024-08-02T03:22:38.893Z",
     "degrees": [
       "creative_writing"
-    ]
+    ],
+    "votes": "0",
+    "comments": "12"
   },
   {
     "post_id": "1eb2jio",
     "title": "Questions about the job",
     "date": "2024-07-24T14:15:06.361Z",
-    "degrees": null
+    "degrees": null,
+    "votes": "5",
+    "comments": "13"
   },
   {
     "post_id": "1e4ngj5",
@@ -238,13 +298,17 @@
       "french",
       "spanish",
       "linguistics"
-    ]
+    ],
+    "votes": "4",
+    "comments": "2"
   },
   {
     "post_id": "1e2mgmk",
     "title": "Interviewing for technical writer role as PhD grad",
     "date": "2024-07-13T22:20:10.525Z",
-    "degrees": null
+    "degrees": null,
+    "votes": "7",
+    "comments": "8"
   },
   {
     "post_id": "1dzp4rf",
@@ -252,7 +316,9 @@
     "date": "2024-07-10T06:46:58.293Z",
     "degrees": [
       "chemistry"
-    ]
+    ],
+    "votes": "3",
+    "comments": "4"
   },
   {
     "post_id": "1dtsgm2",
@@ -260,7 +326,9 @@
     "date": "2024-07-02T18:06:44.197Z",
     "degrees": [
       "physics"
-    ]
+    ],
+    "votes": "4",
+    "comments": "14"
   },
   {
     "post_id": "1dtac9p",
@@ -268,13 +336,17 @@
     "date": "2024-07-02T01:54:22.958Z",
     "degrees": [
       "communications"
-    ]
+    ],
+    "votes": "0",
+    "comments": "6"
   },
   {
     "post_id": "1doq9iy",
     "title": "Are college degrees still relevant?",
     "date": "2024-06-26T04:45:20.386Z",
-    "degrees": null
+    "degrees": null,
+    "votes": "30",
+    "comments": "42"
   },
   {
     "post_id": "1dojba6",
@@ -282,7 +354,9 @@
     "date": "2024-06-25T22:52:47.056Z",
     "degrees": [
       "english"
-    ]
+    ],
+    "votes": "2",
+    "comments": "11"
   },
   {
     "post_id": "1dl3hi4",
@@ -290,7 +364,9 @@
     "date": "2024-06-21T13:02:11.369Z",
     "degrees": [
       "computer_science"
-    ]
+    ],
+    "votes": "1",
+    "comments": "4"
   },
   {
     "post_id": "1df3276",
@@ -298,7 +374,9 @@
     "date": "2024-06-13T16:24:07.936Z",
     "degrees": [
       "english"
-    ]
+    ],
+    "votes": "3",
+    "comments": "24"
   },
   {
     "post_id": "1df50f2",
@@ -306,7 +384,9 @@
     "date": "2024-06-13T17:47:15.551Z",
     "degrees": [
       "engineering"
-    ]
+    ],
+    "votes": "0",
+    "comments": "6"
   },
   {
     "post_id": "1d8w0kp",
@@ -314,7 +394,9 @@
     "date": "2024-06-05T17:44:58.785Z",
     "degrees": [
       "english"
-    ]
+    ],
+    "votes": "2",
+    "comments": "16"
   },
   {
     "post_id": "1d8q4wi",
@@ -322,7 +404,9 @@
     "date": "2024-06-05T13:37:11.360Z",
     "degrees": [
       "computer_science"
-    ]
+    ],
+    "votes": "0",
+    "comments": "18"
   },
   {
     "post_id": "1d79fjy",
@@ -330,7 +414,9 @@
     "date": "2024-06-03T16:59:35.759Z",
     "degrees": [
       "chemistry"
-    ]
+    ],
+    "votes": "4",
+    "comments": "6"
   },
   {
     "post_id": "1d6fde2",
@@ -338,7 +424,9 @@
     "date": "2024-06-02T15:07:44.957Z",
     "degrees": [
       "english"
-    ]
+    ],
+    "votes": "3",
+    "comments": "7"
   },
   {
     "post_id": "1d23s6o",
@@ -347,7 +435,9 @@
     "degrees": [
       "engineering",
       "creative_writing"
-    ]
+    ],
+    "votes": "0",
+    "comments": "11"
   },
   {
     "post_id": "1czzy2l",
@@ -361,7 +451,9 @@
     "post_id": "1cu0yzg",
     "title": "Internship",
     "date": "2024-05-17T09:25:17.913Z",
-    "degrees": null
+    "degrees": null,
+    "votes": "0",
+    "comments": "4"
   },
   {
     "post_id": "1ctih2l",
@@ -369,7 +461,9 @@
     "date": "2024-05-16T17:28:50.446Z",
     "degrees": [
       "english"
-    ]
+    ],
+    "votes": "2",
+    "comments": "6"
   },
   {
     "post_id": "1ctfj19",
@@ -377,7 +471,9 @@
     "date": "2024-05-16T15:24:09.835Z",
     "degrees": [
       "english"
-    ]
+    ],
+    "votes": "2",
+    "comments": "10"
   },
   {
     "post_id": "1criygl",
@@ -385,13 +481,17 @@
     "date": "2024-05-14T03:51:04.030Z",
     "degrees": [
       "english"
-    ]
+    ],
+    "votes": "5",
+    "comments": "9"
   },
   {
     "post_id": "1cq2p2n",
     "title": "Rising sophomore looking to become tech writer",
     "date": "2024-05-12T07:56:28.316Z",
-    "degrees": null
+    "degrees": null,
+    "votes": "2",
+    "comments": "9"
   },
   {
     "post_id": "1clj9ye",
@@ -399,6 +499,8 @@
     "date": "2024-05-06T13:38:05.840Z",
     "degrees": [
       "instructional_design"
-    ]
+    ],
+    "votes": "4",
+    "comments": "8"
   }
 ]

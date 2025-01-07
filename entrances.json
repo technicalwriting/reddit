@@ -11,13 +11,17 @@
     "date": "2024-12-23T17:39:12.701Z",
     "careers": [
       "instructional_design"
-    ]
+    ],
+    "votes": "4",
+    "comments": "7"
   },
   {
     "post_id": "1hiydwq",
     "title": "Can I be a tech writer if I'm introverted",
     "date": "2024-12-21T00:51:45.099Z",
-    "careers": null
+    "careers": null,
+    "votes": "19",
+    "comments": "51"
   },
   {
     "post_id": "1hhu2v6",
@@ -25,7 +29,9 @@
     "date": "2024-12-19T14:28:49.681Z",
     "careers": [
       "information_technology"
-    ]
+    ],
+    "votes": "0",
+    "comments": "36"
   },
   {
     "post_id": "1hgvlyk",
@@ -33,13 +39,17 @@
     "date": "2024-12-18T06:25:15.948Z",
     "careers": [
       "engineering"
-    ]
+    ],
+    "votes": "3",
+    "comments": "1"
   },
   {
     "post_id": "1hg5cnr",
     "title": "wanting to start technical writing - where do i start?",
     "date": "2024-12-17T07:19:41.885Z",
-    "careers": null
+    "careers": null,
+    "votes": "2",
+    "comments": "4"
   },
   {
     "post_id": "1h5nm6e",
@@ -47,7 +57,9 @@
     "date": "2024-12-03T13:40:25.892Z",
     "careers": [
       "software_developer"
-    ]
+    ],
+    "votes": "3",
+    "comments": "6"
   },
   {
     "post_id": "1gwobff",
@@ -55,7 +67,9 @@
     "date": "2024-11-21T19:44:02.709Z",
     "careers": [
       "software_developer"
-    ]
+    ],
+    "votes": "0",
+    "comments": "11"
   },
   {
     "post_id": "1gu9a81",
@@ -63,7 +77,9 @@
     "date": "2024-11-18T16:51:23.008Z",
     "careers": [
       "writing"
-    ]
+    ],
+    "votes": "9",
+    "comments": "20"
   },
   {
     "post_id": "1gsdmq0",
@@ -71,25 +87,33 @@
     "date": "2024-11-16T02:44:32.789Z",
     "careers": [
       "writing"
-    ]
+    ],
+    "votes": "5",
+    "comments": "8"
   },
   {
     "post_id": "1gs779p",
     "title": "No Degree but Eager to Start a New Career",
     "date": "2024-11-15T21:27:45.019Z",
-    "careers": null
+    "careers": null,
+    "votes": "2",
+    "comments": "17"
   },
   {
     "post_id": "1gpvbca",
     "title": "Technical Writing Early Career Advice",
     "date": "2024-11-12T20:58:58.958Z",
-    "careers": null
+    "careers": null,
+    "votes": "1",
+    "comments": "5"
   },
   {
     "post_id": "1gp1be5",
     "title": "Autistic, ADHD, and AuDHD technical writers - tell me about your experiences",
     "date": "2024-11-11T19:51:13.655Z",
-    "careers": null
+    "careers": null,
+    "votes": "32",
+    "comments": "23"
   },
   {
     "post_id": "1gnf4d6",
