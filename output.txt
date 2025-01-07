@@ -20,13 +20,12 @@ Thank you for respecting our community's time and energy and best of luck on you
 (A note on the organization: some posts are duplicated because they apply to multiple categories.
 E.g. a post from a new grad double majoring in English and CS would show up under both the English
 and CS sections.)
-## Education
 
-[Link to this section](#students)
+## **Education**
 
 Internships, finding a job after graduating, whether Masters/PhDs are valuable, etc.
 
-### General and miscellaneous
+### General
 
 * [Technical Writing Internship](https://reddit.com/r/technicalwriting/comments/1hmwub2) (26 Dec 2024)
 * [help pls](https://reddit.com/r/technicalwriting/comments/1h4amv5) (01 Dec 2024)
@@ -59,11 +58,6 @@ Internships, finding a job after graduating, whether Masters/PhDs are valuable, 
 * [Bad Timing?](https://reddit.com/r/technicalwriting/comments/1el41i4) (06 Aug 2024)
 * [Advice for how to enter the field](https://reddit.com/r/technicalwriting/comments/1dojba6) (25 Jun 2024)
 * [Is this career path worth it?](https://reddit.com/r/technicalwriting/comments/1df3276) (13 Jun 2024)
-* [Would love some insight](https://reddit.com/r/technicalwriting/comments/1d8w0kp) (05 Jun 2024)
-* [Advice](https://reddit.com/r/technicalwriting/comments/1d6fde2) (02 Jun 2024)
-* [Looking to eventually transition into a technical writing role. Does my path seem realistic?](https://reddit.com/r/technicalwriting/comments/1ctih2l) (16 May 2024)
-* [Looking for resume feedback](https://reddit.com/r/technicalwriting/comments/1ctfj19) (16 May 2024)
-* [English major with comp sci minor to try and become tech writer, is it the right path](https://reddit.com/r/technicalwriting/comments/1criygl) (14 May 2024)
 
 ### Creative writing
 
@@ -130,9 +124,7 @@ Internships, finding a job after graduating, whether Masters/PhDs are valuable, 
 
 * [Technical writing vs. Instructional design](https://reddit.com/r/technicalwriting/comments/1clj9ye) (06 May 2024)
 
-## Training
-
-[Link to this section](#training)
+## **Training**
 
 Certificates, books to read, etc.
 
@@ -161,31 +153,8 @@ Certificates, books to read, etc.
 * [Tech writing certificate](https://reddit.com/r/technicalwriting/comments/1f8l0tn) (04 Sep 2024)
 * [Learning API documentation](https://reddit.com/r/technicalwriting/comments/1f74xzy) (02 Sep 2024)
 * [Looking for feedback on this course](https://reddit.com/r/technicalwriting/comments/1f7bdjh) (02 Sep 2024)
-* [Beginner questions.](https://reddit.com/r/technicalwriting/comments/1f6rmt7) (01 Sep 2024)
-* [What’s up with the UW API Documentation specialization?](https://reddit.com/r/technicalwriting/comments/1f0h4c7) (24 Aug 2024)
-* [Thinking about taking classes](https://reddit.com/r/technicalwriting/comments/1ezgjxm) (23 Aug 2024)
-* [Technical Writing for Content Writers: Which courses to choose?](https://reddit.com/r/technicalwriting/comments/1ezegjp) (23 Aug 2024)
-* [Phd for Technical Writer](https://reddit.com/r/technicalwriting/comments/1ey058b) (21 Aug 2024)
-* [How to start technical writing?](https://reddit.com/r/technicalwriting/comments/1eulihg) (17 Aug 2024)
-* [AS9100 courses on Udemy](https://reddit.com/r/technicalwriting/comments/1eqtdta) (12 Aug 2024)
-* [Becoming a technical writer, suggestion fresh graduates and to become a technical writer](https://reddit.com/r/technicalwriting/comments/1epkx8n) (11 Aug 2024)
-* [How can I break into technical writing](https://reddit.com/r/technicalwriting/comments/1eopqp7) (10 Aug 2024)
-* [Re. how do I become a cybersecurity technical writer?](https://reddit.com/r/technicalwriting/comments/1ehbnaw) (01 Aug 2024)
-* [Would I really need a certificate?](https://reddit.com/r/technicalwriting/comments/1e94hqq) (22 Jul 2024)
-* [Technical comms training recommendations?](https://reddit.com/r/technicalwriting/comments/1e41w6y) (15 Jul 2024)
-* [Recommend writing courses or other?](https://reddit.com/r/technicalwriting/comments/1dyzcql) (09 Jul 2024)
-* [Resources to make me a better writer](https://reddit.com/r/technicalwriting/comments/1du61ex) (03 Jul 2024)
-* [Hello all. I’m looking at this program to hopefully get a leg up in the Tech Writing Field. Has anyone had experience with this certification program?                                https://technicalwriterhq.com/technical-writing-certification/](https://reddit.com/r/technicalwriting/comments/1dl68p8) (21 Jun 2024)
-* [Are there any technical writing Exercises?](https://reddit.com/r/technicalwriting/comments/1dfp9z1) (14 Jun 2024)
-* [Certificate and Advice](https://reddit.com/r/technicalwriting/comments/1dccas0) (10 Jun 2024)
-* [Thoughts on the Graduate Academic Certificate in Technical Writing at UNT?](https://reddit.com/r/technicalwriting/comments/1d9qw3j) (06 Jun 2024)
-* [Good Certifications to Upskill a Young Technical Writer](https://reddit.com/r/technicalwriting/comments/1cyrgfh) (23 May 2024)
-* [Google's Free Technical Writing Course (Starts May 22)](https://reddit.com/r/technicalwriting/comments/1cwt540) (20 May 2024)
-* [Looking to pivot to technical writing, ASU v. OSU post-baccalaureate certificate--thoughts?](https://reddit.com/r/technicalwriting/comments/1cmlgt5) (07 May 2024)
 
-## Resumes
-
-[Link to this section](#resumes)
+## **Resumes**
 
 What to include, getting feedback on your resume, etc.
 
@@ -211,9 +180,7 @@ What to include, getting feedback on your resume, etc.
 * [Should I put Udemy courses on my resume/Linkedin?](https://reddit.com/r/technicalwriting/comments/1cya7p8) (22 May 2024)
 * [Resume Help](https://reddit.com/r/technicalwriting/comments/1cwlcbs) (20 May 2024)
 
-## Portfolios
-
-[Link to this section](#portfolios)
+## **Portfolios**
 
 How to build a portfolio, where to host it, getting feedback on your portfolio, etc.
 
@@ -237,25 +204,8 @@ How to build a portfolio, where to host it, getting feedback on your portfolio, 
 * [How do you store your samples?](https://reddit.com/r/technicalwriting/comments/1f8gz4p) (04 Sep 2024)
 * [Portfolio advice](https://reddit.com/r/technicalwriting/comments/1f6n1wo) (01 Sep 2024)
 * [How do you apply for jobs if you don’t have a portfolio?](https://reddit.com/r/technicalwriting/comments/1eugd16) (17 Aug 2024)
-* [Demonstrate knowledge of HTML](https://reddit.com/r/technicalwriting/comments/1eu8ka2) (17 Aug 2024)
-* [How do I get a portfolio for technical writing?](https://reddit.com/r/technicalwriting/comments/1eo88pu) (09 Aug 2024)
-* [In a rut, looking for help](https://reddit.com/r/technicalwriting/comments/1ehz5yj) (02 Aug 2024)
-* [Portfolio on a page/resume hack?](https://reddit.com/r/technicalwriting/comments/1eg77og) (30 Jul 2024)
-* [Creating a portfolio](https://reddit.com/r/technicalwriting/comments/1e6b4jo) (18 Jul 2024)
-* [Applying to be a Technical Writer - proprietary information](https://reddit.com/r/technicalwriting/comments/1dup6do) (03 Jul 2024)
-* [Creating a portfolio after working in the industry for 15 years.](https://reddit.com/r/technicalwriting/comments/1doae6g) (25 Jun 2024)
-* [Portfolio Question](https://reddit.com/r/technicalwriting/comments/1doessp) (25 Jun 2024)
-* [Looking for Examples of Good Technical Writing](https://reddit.com/r/technicalwriting/comments/1dhywa9) (17 Jun 2024)
-* [What makes a good portfolio?](https://reddit.com/r/technicalwriting/comments/1dgc882) (15 Jun 2024)
-* [What are some really good examples of web documentation in the semiconductur industry?](https://reddit.com/r/technicalwriting/comments/1dfcmqj) (13 Jun 2024)
-* [Requested Portfolio Reveal](https://reddit.com/r/technicalwriting/comments/1dcrrow) (10 Jun 2024)
-* [Best software for writing a portfolio?](https://reddit.com/r/technicalwriting/comments/1d96hlt) (06 Jun 2024)
-* [Anyone willing to share portfolio?](https://reddit.com/r/technicalwriting/comments/1cpzv4z) (12 May 2024)
-* [Hiring Managers: What format should my portfolio be? Is a website worth it?](https://reddit.com/r/technicalwriting/comments/1cn9623) (08 May 2024)
 
-## Interviews
-
-[Link to this section](#interviews)
+## **Interviews**
 
 How to ace the interview, what kinds of questions to ask, etc.
 
@@ -279,34 +229,8 @@ How to ace the interview, what kinds of questions to ask, etc.
 * [Proposal Writing Interview Tips](https://reddit.com/r/technicalwriting/comments/1fn1wgs) (22 Sep 2024)
 * [Trouble job seeking](https://reddit.com/r/technicalwriting/comments/1fkui1m) (19 Sep 2024)
 * [When searching for jobs, in what job category do you search?](https://reddit.com/r/technicalwriting/comments/1femms5) (11 Sep 2024)
-* [Foreign recruiters on LinkedIn](https://reddit.com/r/technicalwriting/comments/1f80f2w) (03 Sep 2024)
-* [What is your favorite question(s) to ask during an interview?](https://reddit.com/r/technicalwriting/comments/1f17olv) (25 Aug 2024)
-* [Nokia Technical Writing Internship - any tips for the interview](https://reddit.com/r/technicalwriting/comments/1ewe5jf) (19 Aug 2024)
-* [AI for job interview](https://reddit.com/r/technicalwriting/comments/1eh4sk9) (01 Aug 2024)
-* [LinkedIn for TW jobs](https://reddit.com/r/technicalwriting/comments/1eg3g3l) (30 Jul 2024)
-* [Interview help](https://reddit.com/r/technicalwriting/comments/1ef94b7) (29 Jul 2024)
-* [Interview Questions for Tech Writer Being Interviewed by a Non-TW](https://reddit.com/r/technicalwriting/comments/1ef1x91) (29 Jul 2024)
-* [Aking for guidance while preparing for an interview.](https://reddit.com/r/technicalwriting/comments/1e7x3td) (20 Jul 2024)
-* [Providing docs feedback during interview](https://reddit.com/r/technicalwriting/comments/1e7asp2) (19 Jul 2024)
-* [I have a second interview tomorrow with the Product Manager of the company. What are the best questions I can ask that can help make me look like the best candidate?](https://reddit.com/r/technicalwriting/comments/1e4pqc8) (16 Jul 2024)
-* [When interviewing, how long do you spend on “take home assignments”?](https://reddit.com/r/technicalwriting/comments/1e2nky6) (13 Jul 2024)
-* [Suspicious FAANG "offer" after 4 interviews... scammer or terrible recruiter?](https://reddit.com/r/technicalwriting/comments/1dvhzm4) (04 Jul 2024)
-* [Four job offers and 12 interviews in 3 months...](https://reddit.com/r/technicalwriting/comments/1dpvju7) (27 Jun 2024)
-* [Third interview, how do I prepare](https://reddit.com/r/technicalwriting/comments/1dmgcrb) (23 Jun 2024)
-* [Google Technical Writer Interview](https://reddit.com/r/technicalwriting/comments/1dkw6jm) (21 Jun 2024)
-* [Got a referral for a tech writing job, but need some advice](https://reddit.com/r/technicalwriting/comments/1diwi73) (18 Jun 2024)
-* [Questions to ask about Contract position](https://reddit.com/r/technicalwriting/comments/1dfojtq) (14 Jun 2024)
-* [Nervous before job interview (hardware documentation)](https://reddit.com/r/technicalwriting/comments/1d8e807) (05 Jun 2024)
-* [Written Interview: Canonical](https://reddit.com/r/technicalwriting/comments/1d7afov) (03 Jun 2024)
-* [I have my first ever technical writing phone screen tomorrow and need guidance on how to talk about my experience.](https://reddit.com/r/technicalwriting/comments/1cwrmk6) (20 May 2024)
-* [Recruiters vs. Job. Boards](https://reddit.com/r/technicalwriting/comments/1cwnx5j) (20 May 2024)
-* [I got a job!](https://reddit.com/r/technicalwriting/comments/1cv9ary) (18 May 2024)
-* [Losing hope](https://reddit.com/r/technicalwriting/comments/1csmz0s) (15 May 2024)
-* [TW coop](https://reddit.com/r/technicalwriting/comments/1clnuof) (06 May 2024)
 
-## Salaries
-
-[Link to this section](#salaries)
+## **Salaries**
 
 Determining whether a salary is fair, asking for a raise, etc.
 
@@ -322,30 +246,14 @@ Determining whether a salary is fair, asking for a raise, etc.
 * [Another question about deciding rates](https://reddit.com/r/technicalwriting/comments/1frxndo) (29 Sep 2024)
 * [Advice for salary negotiations](https://reddit.com/r/technicalwriting/comments/1fr2tu5) (28 Sep 2024)
 * [Hourly rate for user guides in 2024?](https://reddit.com/r/technicalwriting/comments/1fqbyag) (27 Sep 2024)
-* [What to charge?](https://reddit.com/r/technicalwriting/comments/1fpa1q2) (25 Sep 2024)
-* [Reclassified from salary to hourly](https://reddit.com/r/technicalwriting/comments/1fnrpbl) (23 Sep 2024)
-* [What do you make as an RFP specialist?](https://reddit.com/r/technicalwriting/comments/1fj8312) (17 Sep 2024)
-* [Technical writing](https://reddit.com/r/technicalwriting/comments/1f31x6i) (28 Aug 2024)
-* [Help! I’m a contractor.What should I be charging?](https://reddit.com/r/technicalwriting/comments/1es84bp) (14 Aug 2024)
-* [Apply even if salary range is too low?](https://reddit.com/r/technicalwriting/comments/1er7zoc) (13 Aug 2024)
-* [Possible scam job](https://reddit.com/r/technicalwriting/comments/1eltvb1) (06 Aug 2024)
-* [Is the pay cut worth it??](https://reddit.com/r/technicalwriting/comments/1ehjntn) (01 Aug 2024)
-* [A Huge Interview Mistake. How can I fix it?](https://reddit.com/r/technicalwriting/comments/1e0x5ls) (11 Jul 2024)
-* [Contract hourly rate for authoring using MadCap Flare?](https://reddit.com/r/technicalwriting/comments/1e075xp) (10 Jul 2024)
-* [Pay Rate for 1099 Work](https://reddit.com/r/technicalwriting/comments/1ddip3w) (11 Jun 2024)
-* [Salary Question](https://reddit.com/r/technicalwriting/comments/1db1nv0) (08 Jun 2024)
-* [Job offer negotiation advice](https://reddit.com/r/technicalwriting/comments/1d876hr) (04 Jun 2024)
-* [What payout makes writing a long-form tutorial worth your while?](https://reddit.com/r/technicalwriting/comments/1d4kzkv) (31 May 2024)
 * [Gender pay gap](https://reddit.com/r/technicalwriting/comments/1d0robb) (26 May 2024)
 * [Technical writing salary plateau](https://reddit.com/r/technicalwriting/comments/1cyg1uz) (23 May 2024)
 
-## Transitions
-
-[Link to this section](#entrances)
+## **Transitions**
 
 Breaking into technical writing from a different field.
 
-### General and miscellaneous
+### General
 
 * [Do I have the skills to be a part-time, freelance technical writer?](https://reddit.com/r/technicalwriting/comments/1hs1xho) (02 Jan 2025)
 * [Can I be a tech writer if I'm introverted](https://reddit.com/r/technicalwriting/comments/1hiydwq) (21 Dec 2024)
@@ -384,11 +292,6 @@ Breaking into technical writing from a different field.
 * [Thinking of career change](https://reddit.com/r/technicalwriting/comments/1gm14l6) (07 Nov 2024)
 * [Aspiring DevOps Engineer Switching into Technical Writing.](https://reddit.com/r/technicalwriting/comments/1gcm1ou) (26 Oct 2024)
 * [Transition from Software Engineering to UX/UI or Tech Writing (Part-time/Contract Work)?](https://reddit.com/r/technicalwriting/comments/1g845e4) (20 Oct 2024)
-* [I am unable to land a job as a TW. How can I make myself more desirable?](https://reddit.com/r/technicalwriting/comments/1fpu007) (26 Sep 2024)
-* [S/w eng looking to transition into technical writing after a career break](https://reddit.com/r/technicalwriting/comments/1ffpy6b) (13 Sep 2024)
-* [Path into technical writing from VFX/game development background](https://reddit.com/r/technicalwriting/comments/1ef2h2n) (29 Jul 2024)
-* [An Engineer joining the Technical Writing Field](https://reddit.com/r/technicalwriting/comments/1dbv4ky) (09 Jun 2024)
-* [Technical writers who were Software Engineers: is technical writing an easier job to get into?](https://reddit.com/r/technicalwriting/comments/1csqjch) (15 May 2024)
 
 ### Writing
 
@@ -465,9 +368,7 @@ Breaking into technical writing from a different field.
 * [SLP to technical writer](https://reddit.com/r/technicalwriting/comments/1dpwkfe) (27 Jun 2024)
 * [Speech-Language Pathologist to Tech Writer?](https://reddit.com/r/technicalwriting/comments/1cl25bb) (05 May 2024)
 
-## Advancement
-
-[Link to this section](#advancement)
+## **Advancement**
 
 You got the job (congrats). Next steps for growing your TW career.
 
@@ -485,13 +386,11 @@ You got the job (congrats). Next steps for growing your TW career.
 * [Recommendations for keeping myself competitive, when what I do day-to-day might not actually be technical writing?](https://reddit.com/r/technicalwriting/comments/1d9lomc) (06 Jun 2024)
 * [Help on Career Advancement?](https://reddit.com/r/technicalwriting/comments/1d5mvp7) (01 Jun 2024)
 
-## Exits
-
-[Link to this section](#exits)
+## **Exits**
 
 Leaving technical writing and pursuing another career.
 
-### General and miscellaneous
+### General
 
 * [Been doing tech writing remotely for a decade. Currently unemployed. Considering transitioning from tech writing to something semi-related, but would require me to go outside more / use the computer less. Any suggestions?](https://reddit.com/r/technicalwriting/comments/1htctm9) (04 Jan 2025)
 * [What did you leave Technical Writing for?](https://reddit.com/r/technicalwriting/comments/1d47ul6) (30 May 2024)
@@ -538,9 +437,7 @@ Leaving technical writing and pursuing another career.
 
 * [Leave tech writing](https://reddit.com/r/technicalwriting/comments/1eg2nns) (30 Jul 2024)
 
-## Demand
-
-[Link to this section](#demand)
+## **Demand**
 
 State of the TW job market, what types of TW specialties are in highest demand, which industries pay the most, etc.
 
@@ -570,22 +467,3 @@ State of the TW job market, what types of TW specialties are in highest demand, 
 * [What Technical Writing skill are currently the most in demand?](https://reddit.com/r/technicalwriting/comments/1fujfok) (02 Oct 2024)
 * [Is there any good way to show the value of technical writing in a dollar amount?](https://reddit.com/r/technicalwriting/comments/1fq19u5) (26 Sep 2024)
 * [r/technicalwriting: How are you in the labor market right now?](https://reddit.com/r/technicalwriting/comments/1fjs7g0) (18 Sep 2024)
-* [Leaving and re-joining the workforce?](https://reddit.com/r/technicalwriting/comments/1fcq26a) (09 Sep 2024)
-* [Likelihood of being fired on a contract?](https://reddit.com/r/technicalwriting/comments/1fcslwq) (09 Sep 2024)
-* [Data center work](https://reddit.com/r/technicalwriting/comments/1fcab0j) (08 Sep 2024)
-* [What kind and amount of coding do you do at your technical writing job?](https://reddit.com/r/technicalwriting/comments/1fbli9p) (08 Sep 2024)
-* [Are technical writing jobs drying up?](https://reddit.com/r/technicalwriting/comments/1f499vu) (29 Aug 2024)
-* [If you're srruggling in the job market right now, keep your head up! You'll find your landing spot eventually](https://reddit.com/r/technicalwriting/comments/1f22jnd) (26 Aug 2024)
-* [Advice Needed - Technical Writing Sectors and Specializations](https://reddit.com/r/technicalwriting/comments/1eu29mx) (16 Aug 2024)
-* [Canadian TWs — layoffs](https://reddit.com/r/technicalwriting/comments/1es5gr9) (14 Aug 2024)
-* [Why are companies only hiring senior level tech writers?](https://reddit.com/r/technicalwriting/comments/1ecsayg) (26 Jul 2024)
-* [Experienced writer can’t find a job](https://reddit.com/r/technicalwriting/comments/1e7nv52) (20 Jul 2024)
-* [Rather than being replaced in the age of AI, it's possible that technical writing may become more important](https://reddit.com/r/technicalwriting/comments/1e4uivf) (16 Jul 2024)
-* [Experienced technical writers, how's your job search going?](https://reddit.com/r/technicalwriting/comments/1duh6d6) (03 Jul 2024)
-* [When do you think it will get easier?](https://reddit.com/r/technicalwriting/comments/1drhhco) (29 Jun 2024)
-* [How Much Do You Write Coding Instruction/Guides?](https://reddit.com/r/technicalwriting/comments/1doevul) (25 Jun 2024)
-* [Are large corporations depleting the pool of seasoned technical writers?](https://reddit.com/r/technicalwriting/comments/1dm3le4) (22 Jun 2024)
-* [Will AI replace us?](https://reddit.com/r/technicalwriting/comments/1dalpa3) (07 Jun 2024)
-* [What’s the best field to write for?](https://reddit.com/r/technicalwriting/comments/1cr6prm) (13 May 2024)
-* [How's the market for remote jobs right now? (Software TW)](https://reddit.com/r/technicalwriting/comments/1clqroe) (06 May 2024)
-
