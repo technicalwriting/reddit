@@ -2,6 +2,14 @@ import json
 
 from playwright.sync_api import sync_playwright
 
+# new categories to incorporate:
+# practices - anything related to the direct work of writing docs
+# search - job search stuff
+# job - an explicit job posting
+# social - interpersonal aspects of technical writing work
+#
+# maybe rename "salaries" to "prices"
+
 def exists(post_id, dataset):
     for post in dataset:
         if post_id == post['post_id']:
